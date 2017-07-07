@@ -5,4 +5,4 @@ import Dog from './Dog'
 
 const toby = new Dog('Toby')
 
-console.log(toby.bark())
+console.log(toby.bark());
