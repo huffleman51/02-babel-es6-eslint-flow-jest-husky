@@ -1,5 +1,5 @@
 {
-  "name": "01-node-yarn-package-json",
+  "name": "02-babel-es6-eslint-flow-jest-husky",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
