@@ -1,3 +1,5 @@
+Tutorial that I followed is [here](https://github.com/verekia/js-stack-from-scratch/blob/master/tutorial/02-babel-es6-eslint-flow-jest-husky.md#readme).
+
 ## What I learned in this module
 
 1. This tutorial uses ES6 syntax which is much better than ES5 syntax
